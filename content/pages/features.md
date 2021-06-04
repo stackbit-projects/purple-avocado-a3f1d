@@ -1,7 +1,7 @@
 ---
 title: Services
 sections:
-  - section_id: features
+  - section_id: services
     type: section_content
     background: gray
     image: images/feature1.png
