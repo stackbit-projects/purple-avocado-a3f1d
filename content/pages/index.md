@@ -1,5 +1,5 @@
 ---
-title: Tech Switch
+title: Tech Switch Labs
 sections:
   - section_id: hero
     type: section_hero
